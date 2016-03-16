@@ -1,0 +1,32 @@
+# Dependencies
+gems:             [jekyll-paginate, jekyll-gist]
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            ABAWT
+tagline:          'A-Better-Africa-With-Tech'
+description:      'Building a team of like-minded, determined and focused individuals who would love to contribute to the welfare of Africa through technology.'
+url:              http://abawt.github.io
+baseurl:          /
+
+author:
+  name:           'Manny Acquah'
+  url:            https://twitter.com/abawtgroup
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/abawt
+
+social:
+  fb:             http://facebook.com/abawt.group
+  twitter:        http://twitter.com/abawtgroup
+  gplus:          http://gplus.com
