@@ -6,6 +6,27 @@
           {{ site.title }}
         </a>
       </h1>
+        <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>-->
+        <ul class="list-inline">
+            <li>
+                <a href="{{ site.github.repo }}">
+                    <i class="fa fa-github fa-2x"></i>
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ site.social.fb }}">
+                    <i class="fa fa-facebook fa-2x"></i>
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ site.social.twitter }}">
+                    <i class="fa fa-twitter fa-2x"></i>
+                </a>
+            </li>
+        </ul>
+        <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -26,8 +47,7 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
+
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
