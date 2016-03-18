@@ -4,27 +4,19 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Welcome to ABAWT! :)
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+How about making Africa even more awesome? Huh? How about that?!
 
-There are currently two themes built on Poole:
+How about getting together as a team of like-minded, determined and focussed individuals who would love to contribute to the welfare of Africa through technology. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We've got the skill-set. We might already have the passion or might lack it a bit. 
+All we need now is a common ground where we can all put our heads together, brainstorm and fuel as well as channel our innovative ideas into making Africa even better. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Obviously over a few beers and the occasional pizza if the sponsors are feeling generous ;). 
+And once a month should be really productive. 
 
-## Setup
+So this group is for anyone from all walks of life out there who would love Africa to be seen in a different light in regards to technology and be proud to be instrumental in making this change happen.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Come on over and join us here [Meetup Group](http://www.meetup.com/A-Better-Africa-With-Tech-ABAWT-Meetup) :)

@@ -4,6 +4,25 @@ title:  "First meetup notes!"
 date:   2016-03-14 09:55:03 +0100
 categories: jekyll update
 ---
+
+### Overview
+Thanks for everyone who showed up to our first meetup. We had tons of ideas and the collaborative effort was awesome!
+The main ideas were:
+
+- e-book Kenya distribution: platform to enable a more speedy and cost-effective way of getting books to kids in Kenya
+- online hub to connect investors to innovators in africa (kickstarter africa project - njangilist)
+- pair programming ngo: a platform to help programmers learn quickly from mentors on a pair programming online app
+- networking platform to bridge cultural differences across countries in africa through visuals eg images, videos, (perfect way to communicate)
+- finger print biometrics software to speed up patient recognition and speedier care 
+- interactive software game to facilitate learning through multilingual games (yeepa)
+- voice social network app equivalent to a radio talkshow that enables the broadcast of important issues
+
+We asked the idea pitchers to give a brief write up of how they'd like their ideas to be implemented and we even though we only got one back it's outlined below:
+
+
+### Njangilist Pitch
+[njangilist.com](https://www.njangilist.com/)
+
 As you may know, small and medium size enterprises (SME's) are the backbones of many strong economies today, contributing to GDP, employment and economic growth. 
 
 In Africa, governments were in the past the biggest employers. When their corporations suffered, the economy suffered. 
@@ -25,10 +44,7 @@ The concept has been inspired by [Angellist.co](http://angellist.co), [Angieslis
 Mentorship can easily be solved too, but needs the preliminary work above. That is my belief!
 
 The overall goal is to:
-1.) Help Startups flourish and become engines of growth. With growth, so many problems will be solved automatically!
-2.) Encourage Africans to start a culture of investing because that is how we create wealth for ourselves while helping Africa.
-3.) Spur the tertiary system to see whats needed and tailor courses to meet demand. 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- Help Startups flourish and become engines of growth. With growth, so many problems will be solved automatically!
+- Encourage Africans to start a culture of investing because that is how we create wealth for ourselves while helping Africa.
+- Spur the tertiary system to see whats needed and tailor courses to meet demand.
